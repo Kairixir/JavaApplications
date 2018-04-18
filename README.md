@@ -1,3 +1,3 @@
 # JavaApplications
 Learning depository<br />
-Adventure game obsahuje projekt vytvořený pro pochopení funkce a možností využití map.
+Adventure game obsahuje mnou vytvořený projekt pro pochopení funkce a možností využití map.
