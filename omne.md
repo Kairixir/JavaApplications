@@ -8,5 +8,7 @@ Prvním jazykem, ve kterém jsem programoval, byl Sinclair BASIC na počítači 
 Jsem samostatný, ale schopný a ochotný pracovat i v kolektivu. Mám velmi dobré komunikační a organizační schopnosti. <br />
 Byl bych ti vděčný, pokud bys mi poskytl příležitost rozvíjet moje programovací dovednosti.<br />
 Vzhledem ke studiu předpokládám, že na práci budu mít čas minimálně 20 hodin týdně. Podle informací, které jsem zjistil od známých na fakultě, se domnívám, že reálně budu mít na práci času mnohem víc.<br />
-Těším se na případnou spolupráci,<br />
-Ondřej Ševčík
+Těším se na případnou spolupráci,<br /><br />
+Ondřej Ševčík<br />
+e-mail:sevcikon@gmail.com<br />
+tel:+420 722 463 206
