@@ -5,7 +5,7 @@ import java.io.*;
 import java.util.*;
 
 /**
- * Created by sevcikon on 07/05/2018.
+ * Created by sevcikon on 07/02/2018.
  */
 public class Locations implements Map<Integer, Location> {
     private static Map<Integer, Location> locations = new LinkedHashMap<Integer, Location>();

@@ -7,7 +7,7 @@ import java.nio.file.Path;
 import java.util.*;
 
 /**
- * Created by sevcikon on 2/04/2016.
+ * Created by sevcikon on 07/02/2018.
  */
 public class Locations implements Map<Integer, Location> {
     private static Map<Integer, Location> locations = new LinkedHashMap<Integer, Location>();
@@ -23,7 +23,7 @@ public class Locations implements Map<Integer, Location> {
             e.printStackTrace();
         }
 
-
+//      Příklad zpracování výstupu pomocí NIO bez použití stream
 //        Path locPath = FileSystems.getDefault().getPath("locations_big.txt");
 //        Path dirPath = FileSystems.getDefault().getPath("directions_big.txt");
 //        try (BufferedWriter locFile = Files.newBufferedWriter(locPath);
@@ -65,7 +65,7 @@ public class Locations implements Map<Integer, Location> {
         } catch (ClassNotFoundException e) {
             System.out.println("ClassNotFoundException " + e.getMessage());
         }
-
+//      Příklad zpracování vstupu pomocí NIO bez použití stream
 //        Path locPath = FileSystems.getDefault().getPath("locations_big.txt");
 //        Path dirPath = FileSystems.getDefault().getPath("directions_big.txt");
 //

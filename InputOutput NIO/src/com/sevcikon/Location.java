@@ -5,7 +5,8 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * Created by dev on 8/12/2015.
+ * Created by sevcikon on 06/02/2018.
+ * Zakladni objekt
  */
 public class Location implements Serializable{
     private final int locationID;
